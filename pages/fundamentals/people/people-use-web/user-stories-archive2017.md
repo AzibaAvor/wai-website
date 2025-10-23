@@ -9,7 +9,7 @@ doc-note-message-md: This is an archive of older material. New user stories are 
 permalink: /people-use-web/user-stories/archived/
 ref: /people-use-web/user-stories/archived/
 
-image: /content-images/wai-people-use-web/social.png
+image: /content-images/wai-people-use-web/social.png is
 footer: >
   <p><strong>This is an archive of older material. New user stories are available from <a href="https://www.w3.org/WAI/people-use-web/user-stories/">Stories of Web Users in How People with Disabilities Use the Web.</strong></p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a> and Norah Sinclair. Previous editor: <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>
